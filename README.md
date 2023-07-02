@@ -48,20 +48,6 @@ Verify installation
 
 `ffmpeg --version`
 
-### Downloading and installing `ffmpeg` on Gentoo based distributions (using pacman)
-
-Update your repositories.
-
-`pacman -Syu`
-
-Install `ffmpeg`.
-
-`pacman -S ffmpeg`
-
-Verify installation
-
-`ffmpeg --version`
-
-#### Downloading and installing `ffmpeg` on Gentoo
+### Downloading and installing `ffmpeg` on Gentoo
 
 https://wiki.gentoo.org/wiki/FFmpeg#Installation
