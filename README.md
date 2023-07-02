@@ -20,7 +20,7 @@ To run this shell script you will need the `ffmpeg` terminal program.
 
 If you do not have `ffmpeg` installed you will have to download it.
 
-#### Downloading and installing `ffmpeg` on Debian based distributions
+### Downloading and installing `ffmpeg` on Debian based distributions
 
 Update your repositories.
 
@@ -34,7 +34,7 @@ Verify installation.
 
 `ffmpeg -version`
 
-#### Downloading and installing `ffmpeg` on Arch based distributions (using pacman)
+### Downloading and installing `ffmpeg` on Arch based distributions (using pacman)
 
 Update your repositories.
 
@@ -48,7 +48,7 @@ Verify installation
 
 `ffmpeg --version`
 
-#### Downloading and installing `ffmpeg` on Gentoo based distributions (using pacman)
+### Downloading and installing `ffmpeg` on Gentoo based distributions (using pacman)
 
 Update your repositories.
 
