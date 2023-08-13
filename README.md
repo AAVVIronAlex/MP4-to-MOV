@@ -8,7 +8,7 @@ BlackMagic's DaVinci Resolve does not have support for .mp4 files on Linux, so t
 
 ## How to use
 
-Download or clone the .sh file to the directory your video is stored in, use the `cd` command to do that. When at the location in the termninal simply type `./mp4_to_mov_converter.sh` in the terminal. 
+Download or clone and then go the .sh file to the directory your video is stored in, use the `cd` command to do that. When at the location in the termninal simply type `./mp4_to_mov_converter.sh` in the terminal. 
 
 This might take some time depending on the speed of your computer.
 
