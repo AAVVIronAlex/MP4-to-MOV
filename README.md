@@ -22,32 +22,20 @@ If you do not have `ffmpeg` installed you will have to download it.
 
 ### Downloading and installing `ffmpeg` on Debian based distributions
 
-Update your repositories.
+Update your repositories: `sudo apt update`
 
-`sudo apt update`
+Install `ffmpeg`: `sudo apt install ffmpeg`
 
-Install `ffmpeg`.
-
-`sudo apt install ffmpeg`
-
-Verify installation.
-
-`ffmpeg -version`
+Verify installation: `ffmpeg -version`
 
 ### Downloading and installing `ffmpeg` on Arch based distributions (using pacman)
 
-Update your repositories.
+Update your repositories: `pacman -Syu`
 
-`pacman -Syu`
+Install `ffmpeg`: `pacman -S ffmpeg`
 
-Install `ffmpeg`.
-
-`pacman -S ffmpeg`
-
-Verify installation
-
-`ffmpeg --version`
+Verify installation: `ffmpeg --version`
 
 ### Downloading and installing `ffmpeg` on Gentoo
 
-https://wiki.gentoo.org/wiki/FFmpeg#Installation
+Installation: https://wiki.gentoo.org/wiki/FFmpeg#Installation
